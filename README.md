@@ -27,13 +27,6 @@
 
 ---
 
-> [!IMPORTANT]
->
-> Drop-in replacement for AList with long-term governance, no hidden risks, and full transparency, built to defend open source against trust-based attacks.
->
-> We sincerely thank the author [Xhofe](https://github.com/Xhofe) of the original project [AlistGo/alist](https://github.com/AlistGo/alist) and all other contributors.
->
-> This fork is not yet stable, specific migration progress can be viewed in [OpenList Migration Work Summary](https://github.com/OpenListTeam/OpenList/issues/6).
 
 English | [中文](./README_cn.md) | [日本語](./README_ja.md) | [Contributing](./CONTRIBUTING.md) | [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 
